@@ -1,4 +1,4 @@
-module Problem9 where 
+module Problem09 where 
 
 import Data.List (group)
 

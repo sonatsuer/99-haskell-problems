@@ -1,4 +1,4 @@
-module Problem2 where
+module Problem02 where
 
 -- Problem 2
 -- Find the last but one element of a list.

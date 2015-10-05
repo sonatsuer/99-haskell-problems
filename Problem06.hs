@@ -1,4 +1,4 @@
-module Problem6 where
+module Problem06 where
 
 import Problem5 (myReverse)
 

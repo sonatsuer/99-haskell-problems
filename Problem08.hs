@@ -1,4 +1,4 @@
-module Problem8 where
+module Problem08 where
 
 -- Problem 8
 -- Eliminate consecutive duplicates of list elements.

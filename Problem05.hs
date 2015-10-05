@@ -1,4 +1,4 @@
-module Problem5 where
+module Problem05 where
 
 import DList
 

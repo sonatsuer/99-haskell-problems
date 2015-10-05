@@ -1,4 +1,4 @@
-module Problem4 where
+module Problem04 where
 
 -- Problem 4
 -- Find the number of elements of a list.

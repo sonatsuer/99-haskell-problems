@@ -1,4 +1,4 @@
-module Problem7 where
+module Problem07 where
 
 -- Problem 7
 -- Flatten a nested list structure.
