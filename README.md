@@ -16,7 +16,7 @@ Contents:
 - 90: Eight queens.
 - 91: Knight's tour.
 - 92: Von Koch's Conjecture, aka the graceful labeling conjecture.
-- 93: 
+- 93: Arithmetic puzzle.
 - 94: Generating k-regular graphs.
 - 95: English number words.
 - 96: Syntax checker for identifiers in Ada.
