@@ -9,7 +9,7 @@ Contents:
 
 - 1 to 28: Lists. (Completed)
 - 30 to 41: Arithmetic. (Completed)
-- 46 to 50: Logic and codes.
+- 46 to 50: Logic and codes. (Completed)
 - 54A to 69: Binary trees.
 - 70B to 73: Multiway trees.
 - 80 to 89: Graphs.
